@@ -1,0 +1,5 @@
+LinguaHorizont/
+├─ venv/               # (La carpeta del entorno virtual)
+├─ main.py             # Archivo principal de la app
+├─ requirements.txt    # Lista de dependencias (opcional al inicio)
+└─ ... (otros archivos o carpetas)

@@ -1,5 +1,5 @@
 LinguaHorizont/
-├─ venv/               # (La carpeta del entorno virtual)
-├─ main.py             # Archivo principal de la app
-├─ requirements.txt    # Lista de dependencias (opcional al inicio)
-└─ front end lo mas seguro es que sea con ract
+sounddevice
+google-cloud-speech
+requests
+pyinstaller

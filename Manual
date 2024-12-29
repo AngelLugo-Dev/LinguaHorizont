@@ -1,0 +1,12 @@
+LinguaHorizont/
+  ├─ venv/                  # Entorno virtual, si lo usas
+  ├─ src/                   # Carpeta con el código fuente
+  │    ├─ main.py           # Lógica principal de la aplicación
+  │    ├─ audio_capture.py  # Captura de audio
+  │    ├─ stt.py            # API de reconocimiento de voz 
+  │    ├─ translator.py     # Traducción del texto
+  │    └─ db_manager.py     # historial 
+  ├─ requirements.txt       # Dependencias del proyecto
+  ├─ .gitignore             # Ignorar archivos innecesarios
+  ├─ README.md              # Documentación del proyecto
+  └─ LICENSE                # Licencia del proyecto
